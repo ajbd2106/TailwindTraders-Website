@@ -18,7 +18,7 @@ bot
 
 ##### Prequisites
 
-Botframework CLI > 4.10
+Botframework CLI > 4.11
 
 ```
 npm i -g @microsoft/botframework-cli
