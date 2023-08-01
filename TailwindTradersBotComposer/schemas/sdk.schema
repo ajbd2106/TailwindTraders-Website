@@ -1,6 +1,6 @@
 {
   "$schema": "https://schemas.botframework.com/schemas/component/v1.0/component.schema",
-  "type": "object",
+  "type": "object commit",
   "title": "Component kinds",
   "description": "These are all of the kinds that can be created by the loader.",
   "oneOf": [    
